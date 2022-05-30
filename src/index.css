@@ -1,0 +1,9 @@
+.mb-6, .my-6 {
+    margin-bottom: 1.5rem!important;
+}
+
+@media (min-width: 768px) {
+    .sidebar .nav-item .nav-link {
+        padding: 0.5rem!important;
+    }
+}
